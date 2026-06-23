@@ -2,11 +2,11 @@
 
 #1. Project Title
 Hospital Emergency Room Data Analysis Dashboard (Excel)
-________________________________________
+
 ##2. Short Description
 This project focuses on analyzing Hospital Emergency Room (ER) data using Microsoft Excel to gain insights into patient flow, service efficiency, and referral patterns. An interactive dashboard was created to visualize key performance indicators and help stakeholders monitor emergency room operations effectively.
 The dashboard provides a comprehensive overview of patient admissions, age demographics, waiting times, gender distribution, and department referrals, enabling data-driven decision-making in healthcare management.
-________________________________________
+
 ##3. Tech Stack
 •	Microsoft Excel
 o	Pivot Tables
@@ -15,7 +15,7 @@ o	Slicers
 o	Conditional Formatting
 o	Data Cleaning & Transformation
 o	Dashboard Design
-________________________________________
+
 ##4. Data Source
 •	Hospital Emergency Room dataset containing patient records.
 •	Data includes:
@@ -26,7 +26,7 @@ o	Wait Time
 o	Department Referrals
 o	Visit Date Information
 Note: This dataset was used for educational and analytical purposes.
-________________________________________
+
 ##5. Features / Highlights
 📌 Patient Admission Status Analysis
 •	Tracks the number of patients who were admitted versus not admitted.
@@ -47,14 +47,14 @@ ________________________________________
 •	Includes slicers for year and month selection.
 •	Allows users to dynamically filter and explore data.
 •	Presents KPIs and charts in a user-friendly format.
-________________________________________
+
 🎯 Key Learning Outcomes
 •	Data Cleaning and Preparation
 •	Healthcare Data Analysis
 •	Interactive Dashboard Development
 •	Data Visualization Best Practices
 •	Business Intelligence Reporting using Excel
-________________________________________
-##Dashboard Preview : 
+
+##Dashboard Preview : https://github.com/Priya-Jangra/Excel-Dashboard/blob/main/Final%20Dashboard%20of%20Hospital%20Emergency%20Room.PNG
 
 This project demonstrates how Excel can be used to transform raw healthcare data into meaningful insights through interactive reporting and visualization.
