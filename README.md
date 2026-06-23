@@ -65,4 +65,4 @@ Note: This dataset was used for educational and analytical purposes.
 •	Data Visualization Best Practices
 •	Business Intelligence Reporting using Excel
 
-![Dashboard Preview] https://github.com/Priya-Jangra/Excel-Dashboard/blob/main/Final%20Dashboard%20of%20Hospital%20Emergency%20Room.P
+![Dashboard Preview](https://github.com/Priya-Jangra/Excel-Dashboard/blob/main/Final%20Dashboard%20of%20Hospital%20Emergency%20Room.PNG)
