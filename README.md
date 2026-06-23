@@ -1,1 +1,60 @@
-# Excel-Dashboard
+# Hospital_Emergency_Room_Dashboard
+
+#1. Project Title
+Hospital Emergency Room Data Analysis Dashboard (Excel)
+________________________________________
+##2. Short Description
+This project focuses on analyzing Hospital Emergency Room (ER) data using Microsoft Excel to gain insights into patient flow, service efficiency, and referral patterns. An interactive dashboard was created to visualize key performance indicators and help stakeholders monitor emergency room operations effectively.
+The dashboard provides a comprehensive overview of patient admissions, age demographics, waiting times, gender distribution, and department referrals, enabling data-driven decision-making in healthcare management.
+________________________________________
+##3. Tech Stack
+•	Microsoft Excel
+o	Pivot Tables
+o	Pivot Charts
+o	Slicers
+o	Conditional Formatting
+o	Data Cleaning & Transformation
+o	Dashboard Design
+________________________________________
+##4. Data Source
+•	Hospital Emergency Room dataset containing patient records.
+•	Data includes:
+o	Patient Admission Status
+o	Patient Age
+o	Gender
+o	Wait Time
+o	Department Referrals
+o	Visit Date Information
+Note: This dataset was used for educational and analytical purposes.
+________________________________________
+##5. Features / Highlights
+📌 Patient Admission Status Analysis
+•	Tracks the number of patients who were admitted versus not admitted.
+•	Helps evaluate hospital admission trends and resource utilization.
+📌 Patient Age Distribution
+•	Groups patients into different age categories.
+•	Identifies the age groups that most frequently visit the emergency room.
+📌 Timeliness Analysis
+•	Measures the percentage of patients who were attended to within 30 minutes.
+•	Assesses emergency room responsiveness and operational efficiency.
+📌 Gender Analysis
+•	Displays the distribution of patients by gender.
+•	Provides demographic insights for healthcare planning.
+📌 Department Referral Analysis
+•	Shows the departments receiving the highest number of patient referrals.
+•	Helps identify areas with increased demand for specialized medical care.
+📌 Interactive Dashboard
+•	Includes slicers for year and month selection.
+•	Allows users to dynamically filter and explore data.
+•	Presents KPIs and charts in a user-friendly format.
+________________________________________
+🎯 Key Learning Outcomes
+•	Data Cleaning and Preparation
+•	Healthcare Data Analysis
+•	Interactive Dashboard Development
+•	Data Visualization Best Practices
+•	Business Intelligence Reporting using Excel
+________________________________________
+##Dashboard Preview : 
+
+This project demonstrates how Excel can be used to transform raw healthcare data into meaningful insights through interactive reporting and visualization.
