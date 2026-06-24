@@ -1,68 +1,47 @@
-# Hospital_Emergency_Room_Dashboard
+# 📊 Hospital Emergency Room Dashboard
 
-#1. Project Title
-Hospital Emergency Room Data Analysis Dashboard (Excel)
+An interactive Excel Dashboard developed to analyze and visualize Hospital Emergency Room data. This project transforms raw healthcare data into meaningful insights through charts, KPIs, and visual reports, enabling better understanding of patient flow, service efficiency, and hospital performance.
 
-##2. Short Description
+## 📌 Key Features
 
-This project focuses on analyzing Hospital Emergency Room (ER) data using Microsoft Excel to gain insights into patient flow, service efficiency, and referral patterns. An interactive dashboard was created to visualize key performance indicators and help stakeholders monitor emergency room operations effectively.
-The dashboard provides a comprehensive overview of patient admissions, age demographics, waiting times, gender distribution, and department referrals, enabling data-driven decision-making in healthcare management.
+- Interactive dashboard for data analysis
+- Patient admission and visit tracking
+- Emergency room performance monitoring
+- Visual representation of key healthcare metrics
+- Dynamic charts and KPI indicators
+- Data-driven decision support
 
-##3. Tech Stack
+## 🛠️ Tools & Technologies Used
 
-•	Microsoft Excel
-•	Pivot Tables
-•	Pivot Charts
-•	Slicers
-•	Conditional Formatting
-•	Data Cleaning & Transformation
-•	Dashboard Design
+- Microsoft Excel
+- Pivot Tables
+- Pivot Charts
+- Slicers
+- Conditional Formatting
+- Data Cleaning & Transformation
+- Dashboard Design
 
-##4. Data Source
+## 📈 Hospital Emergency Room Dashboard Insights
 
-•	Hospital Emergency Room dataset containing patient records.
-•	Data includes:
-•	Patient Admission Status
-•	Patient Age
-•	Gender
-•	Wait Time
-•	Department Referrals
-•	Visit Date Information
-Note: This dataset was used for educational and analytical purposes.
+The dashboard provides valuable insights into hospital emergency room operations, including age demographics, visit patterns, waiting times, gender distribution, and overall departmental referral. Interactive filters allow users to explore data from different perspectives and identify important trends efficiently.
 
-##5. Features / Highlights
+## 🎯 Learning Outcomes
 
-📌 Patient Admission Status Analysis
-•	Tracks the number of patients who were admitted versus not admitted.
-•	Helps evaluate hospital admission trends and resource utilization.
+This project demonstrates practical skills in:
 
-📌 Patient Age Distribution
-•	Groups patients into different age categories.
-•	Identifies the age groups that most frequently visit the emergency room.
+- Data Cleaning and Preparation
+- Data Analysis using Excel
+- Dashboard Development
+- KPI Design and Reporting
+- Data Visualization
+- Business Intelligence Fundamentals
 
-📌 Timeliness Analysis
-•	Measures the percentage of patients who were attended to within 30 minutes.
-•	Assesses emergency room responsiveness and operational efficiency.
+## 🚀 Project Impact
 
-📌 Gender Analysis
-•	Displays the distribution of patients by gender.
-•	Provides demographic insights for healthcare planning.
+By converting raw hospital data into an interactive dashboard, this project enables faster analysis, improved reporting, and better decision-making through clear and actionable visual insights.
 
-📌 Department Referral Analysis
-•	Shows the departments receiving the highest number of patient referrals.
-•	Helps identify areas with increased demand for specialized medical care.
+## 👩‍💻 Author
 
-📌 Interactive Dashboard
-•	Includes slicers for year and month selection.
-•	Allows users to dynamically filter and explore data.
-•	Presents KPIs and charts in a user-friendly format.
-
-🎯 Key Learning Outcomes
-
-•	Data Cleaning and Preparation
-•	Healthcare Data Analysis
-•	Interactive Dashboard Development
-•	Data Visualization Best Practices
-•	Business Intelligence Reporting using Excel
+Priya
 
 ![Dashboard Preview](https://github.com/Priya-Jangra/Excel-Dashboard/blob/main/Final%20Dashboard%20of%20Hospital%20Emergency%20Room.PNG)
